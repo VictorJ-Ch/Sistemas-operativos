@@ -15,3 +15,9 @@
 - [Año bisiesto](./Programas/Año-bisiesto/Año-bisiesto.md)
 
 ## SEGUNDO PARCIAL
+
+- [C](./Notes/C.md)
+
+### Programas
+- [Promedio](./Programas/Promedio/Promedio.c)
+
