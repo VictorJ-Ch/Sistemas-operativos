@@ -23,6 +23,7 @@ int main()
 ## ESTRUCTURA IF / ELSE
 
 En los diagramas de flujo el "True" va a la derecha y el "False a la izquierda".
+
 [Ver diagrama de ejemplo](./Ejemplos-Notas/C/C_IfElse.drawio)
 
 [Probar en consola](./Ejemplos-Notas/C/C.c)

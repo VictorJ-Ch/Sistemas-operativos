@@ -1,40 +1,22 @@
 #include <stdio.h>
-/*
 int main()
 {
-   int gatos, ingresosTotales, ingresosActuales; 
-}
-*/
- 
-int main(){
- int contadorGatos = 0;
-    int numeroIngresos;
-    int ingresoActual = 0;
-
-    printf("Ingrese el número de ingresos de gatos en el día: ");
-    scanf("%d", &numeroIngresos);
-
-    if (numeroIngresos < 0) {
-        printf("El número de ingresos no puede ser negativo.\n");
-        return 1; // Salir del programa con un código de error
-    }
-
-    while (ingresoActual < numeroIngresos) {
-        printf("Ingrese el número de gatos en el ingreso %d: ", ingresoActual + 1);
-        int gatosIngreso;
-        scanf("%d", &gatosIngreso);
-        
-        if (gatosIngreso < 0) {
-            printf("El número de gatos en un ingreso no puede ser negativo.\n");
-            return 1; // Salir del programa con un código de error
+    float damage;
+    int attack;
+    while(1)
+    {
+        printf("\n Ingrese el daño de su heroe, entre valores de 1 a 3: ");
+        scanf("%f", &damage);
+        if(damage<1.0 || damage>3.0)
+        {
+            printf("\n Por favor que se encuentre entre los valores de 1-3.");
         }
-
-        contadorGatos += gatosIngreso;
-        ingresoActual++;
-    }
-
-    printf("El total de gatos ingresados en el día es: %d\n", contadorGatos);
-
-    return 0; // Terminar el programa con éxito
+        else if(damage>1.0 || damage<3.0)
+        {
+            printf("\n El daño del heroe es de: %.1f", damage);
+            break;
+        }
+    } 
+    return 0;
 }
     
