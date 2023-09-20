@@ -17,6 +17,7 @@
 ## SEGUNDO PARCIAL
 
 - [C](./Notes/C.md)
+- [PowerShell](./Notes/PowerShell.md)
 
 ### Programas
 - [Promedio](./Programas/Promedio/Promedio.c)
