@@ -20,6 +20,6 @@
 - [PowerShell](./Notes/PowerShell.md)
 
 ### Programas
-- [Promedio](./Programas/Promedio/Promedio.c)
+- [Promedio](./Programas/Promedio/Promedio.md)
 - [Contador](./Programas/Contador/Contador.md)
-- []()
+- [Personalizar Héroe](./Programas/Personalizar-Heroe/PersonalizarHeroe.md)
