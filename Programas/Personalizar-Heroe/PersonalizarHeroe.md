@@ -23,6 +23,7 @@
 21. End.
 
 ## Diagrama de Flujo
+[Personalizar Héroe](./PersonalizarHeroe-diagrama.drawio)
 
 ## Código fuente
 [Ver en consola]()
