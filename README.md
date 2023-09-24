@@ -15,7 +15,7 @@
 - [Año bisiesto](./Programas/Año-bisiesto/Año-bisiesto.md)
 
 ## SEGUNDO PARCIAL
-
+### Notas
 - [C](./Notes/C.md)
 - [PowerShell](./Notes/PowerShell.md)
 
@@ -23,3 +23,6 @@
 - [Promedio](./Programas/Promedio/Promedio.md)
 - [Contador](./Programas/Contador/Contador.md)
 - [Personalizar Héroe](./Programas/Personalizar-Heroe/PersonalizarHeroe.md)
+
+### Líneas de tiempo
+- [SO de ordenadores](./Lineas-Tiempo/SO-Ordenadores.md)
